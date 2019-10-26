@@ -12,7 +12,7 @@ public class FbLoginTest extends TestBase{
 	@Test
 	 public void init() throws Exception{
 	 
-	
+	//Login Page
 	 FBLoginPage loginpage = PageFactory.initElements(driver, FBLoginPage.class);
 	 loginpage.setEmail("romil.patel1@gmail.com");
 	 loginpage.setPassword("Rvpb2107+-*");
