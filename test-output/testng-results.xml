@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32670" started-at="2019-10-24T13:46:34Z" finished-at="2019-10-24T13:47:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32670" started-at="2019-10-24T13:46:34Z" finished-at="2019-10-24T13:47:07Z">
+      <class name="tests.FbLoginTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:tests.FbLoginTest@61832929]" name="initialize" is-config="true" duration-ms="11948" started-at="2019-10-24T13:46:22Z" finished-at="2019-10-24T13:46:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="init()[pri:0, instance:tests.FbLoginTest@61832929]" name="init" duration-ms="32640" started-at="2019-10-24T13:46:34Z" finished-at="2019-10-24T13:47:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:tests.FbLoginTest@61832929]" name="TeardownTest" is-config="true" duration-ms="1044" started-at="2019-10-24T13:47:07Z" finished-at="2019-10-24T13:47:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- tests.FbLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
