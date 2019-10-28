@@ -15,7 +15,7 @@ public class FbLoginTest extends TestBase{
 	//Login Page
 	 FBLoginPage loginpage = PageFactory.initElements(driver, FBLoginPage.class);
 	 loginpage.setEmail("romil.patel1@gmail.com");
-	 loginpage.setPassword("Rvpb2107+-*");
+	 loginpage.setPassword("abcd*-*-*");
 	 loginpage.clickOnLoginButton();
 	 
 	 FBHomePage homepage = PageFactory.initElements(driver, FBHomePage.class);
